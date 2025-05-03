@@ -1,0 +1,6 @@
+[submodule "AccountAPI"]
+	path = AccountAPI
+	url = git@github.com:jdulfer/teya-account-api.git
+[submodule "TransactionAPI"]
+	path = TransactionAPI
+	url = git@github.com:jdulfer/teya-transaction-api.git
